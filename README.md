@@ -11,18 +11,18 @@
  <br/><br/>
  
 ## Languages and Framework
-<img width="60px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/javascript.png" alt="javascript" /><img width="60px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/dart.png" alt="dart" />
-<img width="60px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/react.png" alt="react" />
-<img width="45px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/java.png" alt="java" /> 
-<img width="60px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/node.png" alt="nodejs" /> 
+<img width="60px" hspace="10px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/javascript.png" alt="javascript" /><img width="60px" hspace="8px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/dart.png" alt="dart" />
+<img width="60px" hspace="5px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/node.png" alt="nodejs" /> 
+<img width="60px" hspace="3px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/react.png" alt="react" />
+<img width="45px" hspace="5px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/java.png" alt="java" /> 
 <img width="65px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/python.png" alt="python" /> 
 
 <br/>
 
 ## Database and DevOps
-<img width="60px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/sqlite.png" alt="sqlite" /><img width="60px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/mysql.png" alt="mysql" />
-<img width="60px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/mongo.png" alt="mongodb" /> 
-<img width="60px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/git.png" alt="git" />
+<img width="60px" hspace="5px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/sqlite.png" alt="sqlite" /><img width="60px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/mysql.png" alt="mysql" />
+<img width="60px" hspace="5px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/mongo.png" alt="mongodb" /> 
+<img width="60px"  hspace="5px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/git.png" alt="git" />
 <img width="70px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/github.png" alt="github" /> 
 <img width="60px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/docker.png" alt="docker" /> 
 
