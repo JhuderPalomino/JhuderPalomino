@@ -8,7 +8,7 @@
 🌱 I’m mobile developer and I'm currently learning NodeJs and ReactJs. <br/>
 ⚡ I'm student at UNSCH. <br/>
 📫 How to reach me **jhuderpalomino83@gmail.com**. <br/>
-🖥️ How to reach me **https://gitlab.com/jhuderpalomino**.
+🖥️ My gitlab profile **https://gitlab.com/jhuderpalomino**.
  <br/><br/>
  
 ## Languages and Framework
