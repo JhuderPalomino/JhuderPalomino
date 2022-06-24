@@ -14,7 +14,7 @@
 ## Languages and Framework
 <img width="60px" hspace="10px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/javascript.png" alt="javascript" /><img width="60px" hspace="8px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/dart.png" alt="dart" />
 <img width="60px" hspace="5px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/node.png" alt="nodejs" /> 
-<!--<img width="60px" hspace="3px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/react.png" alt="react" />-->
+<img width="60px" hspace="3px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/react.png" alt="react" />
 <img width="45px" hspace="5px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/java.png" alt="java" /> 
 <img width="65px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/python.png" alt="python" /> 
 
