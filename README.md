@@ -19,10 +19,9 @@
 <br/>
 
 ## Database and DevOps
-<img width="60px" hspace="5px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/sqlite.png" alt="sqlite" /><img width="60px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/mysql.png" alt="mysql" />
+<img width="60px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/mysql.png" alt="mysql" />
 <img width="60px" hspace="5px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/mongo.png" alt="mongodb" /> 
 <img width="60px"  hspace="5px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/git.png" alt="git" />
-<img width="70px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/github.png" alt="github" /> 
 <img width="60px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/docker.png" alt="docker" /> 
 
 
