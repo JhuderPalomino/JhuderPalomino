@@ -1,8 +1,8 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=24&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg) -->
 
 ### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jhuder Palomino!  <img align="right" src="https://komarev.com/ghpvc/?username=JhuderPalomino&color=brightgreen" alt="JhuderPalomino" /> 
-
-<img align="right" width="200px" height="200px" alt="side_sticker" src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" data-canonical-src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="max-width: 100%;">
+<!--
+<img align="right" width="200px" height="200px" alt="side_sticker" src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" data-canonical-src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="max-width: 100%;">  -->
 
 
 🌱 I’m mobile and backend developer in NodeJS. <br/>
