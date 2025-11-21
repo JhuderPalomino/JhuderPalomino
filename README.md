@@ -12,10 +12,10 @@
  
 ## Languages and Framework
 <!--<img width="60px" hspace="10px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/javascript.png" alt="javascript" /><img width="60px" hspace="8px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/dart.png" alt="dart" /> -->
-<img width="30px" hspace="5px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/node.png" alt="nodejs" /><img width="15px" hspace="5px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/java.png" alt="java" /> 
+<img width="30px" hspace="5px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/node.png" alt="nodejs" /><img width="20px" hspace="5px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/java.png" alt="java" /> 
 <img width="35px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/python.png" alt="python" />
 <img width="30px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/mysql.png" alt="mysql" />
-<img width="30px" hspace="5px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/mongo.png" alt="mongodb" />
+<img width="40px" hspace="5px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/mongo.png" alt="mongodb" />
 <img width="30px"  hspace="5px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/git.png" alt="git" />
 <img width="40px" src="https://github.com/JhuderPalomino/JhuderPalomino/blob/main/assets/icons/docker.png" alt="docker" /> 
 <br/>
